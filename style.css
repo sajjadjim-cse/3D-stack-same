@@ -8,7 +8,7 @@ body {
     align-items: center;
     height: 100vh;
     touch-action: none;
-    /* Prevent zoom on mobile taps */
+    /* Prevent zoom on mobile taps ---- */
 }
 
 #game-container {
